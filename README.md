@@ -134,7 +134,3 @@
 <img src="https://komarev.com/ghpvc/?username=SaleemTheKing&&style=flat-square" align="center" />
 </div>  
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
